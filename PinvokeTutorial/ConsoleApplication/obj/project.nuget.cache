@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "EHZNXDyeCfJ96PesI5HnhZNz1B2PrxcicJzg6xwhhFOL3A56F1jJhUrx8yWtOwVRONECwDhdHT7enWKCLxuqsA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Liviu\\Career\\Zeiss\\Articles\\PInvoke\\PinvokeTutorial\\ConsoleApplication\\ConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liviu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Liviu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liviu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Projektinformationen für \"C:\\Users\\Liviu\\Career\\Zeiss\\Articles\\PInvoke\\PinvokeTutorial\\NativeLibrary\\NativeLibrary.vcxproj\" wurden nicht gefunden. Wenn Sie Visual Studio verwenden, wurde das Projekt möglicherweise entladen oder gehört nicht zur aktuellen Projektmappe. Führen Sie daher eine Wiederherstellung über die Befehlszeile aus. Andernfalls ist die Projektdatei möglicherweise ungültig, oder es fehlen Ziele, die für die Wiederherstellung erforderlich sind.",
+      "libraryId": "C:\\Users\\Liviu\\Career\\Zeiss\\Articles\\PInvoke\\PinvokeTutorial\\NativeLibrary\\NativeLibrary.vcxproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
